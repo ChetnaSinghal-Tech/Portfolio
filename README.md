@@ -1,11 +1,15 @@
 
-  # Futuristic Glass Banner
+ # Chetna Singhal — UI/UX & Frontend Portfolio
 
-  This is a code bundle for Futuristic Glass Banner. The original project is available at https://www.figma.com/design/wtsk1hPIp8elHxEduvJvB3/Futuristic-Glass-Banner.
+This repository contains my UI/UX design portfolio made in Figma and exported as HTML/CSS.  
+It showcases my skills in:
 
-  ## Running the code
+- UI/UX Design  
+- Responsive Frontend (HTML & CSS)  
+- Modern, clean design patterns  
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+## 📁 Files
+- `index.html` — Main page  
+- `style.css` — Styling  
+- `/assets` — Images & icons  
+- `/screenshots` — Figma previews  
