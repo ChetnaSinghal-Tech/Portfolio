@@ -13,3 +13,5 @@ It showcases my skills in:
 - `style.css` — Styling  
 - `/assets` — Images & icons  
 - `/screenshots` — Figma previews  
+## Link to my portfolio
+[https://lapel-pug-12357899.figma.site/](https://lapel-pug-12357899.figma.site/)
